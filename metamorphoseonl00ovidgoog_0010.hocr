@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./metamorphoseonl00ovidgoog_0010.png"; bbox 0 0 3181 5014; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 235 222 1118 367">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 235 222 1118 367">
+     <span class='ocr_line' id='line_1_1' title="bbox 235 222 1118 367; baseline 0.003 -2.238"><span class='ocrx_word' id='word_1_1' title='bbox 235 222 1118 367; x_wconf 42' lang='grc' dir='ltr'><strong>ωμσ-ψΘ-Ἧῶ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 354 376 2141 649">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 354 376 2141 649">
+     <span class='ocr_line' id='line_1_2' title="bbox 354 376 2141 649; baseline 0.003 -106"><span class='ocrx_word' id='word_1_2' title='bbox 354 386 728 495; x_wconf 49' lang='lat'><strong>&#39;7²⁰‘</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 781 398 988 497; x_wconf 45' lang='grc' dir='ltr'><strong>φῦ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1033 380 1404 649; x_wconf 55' lang='grc' dir='ltr'><strong>Ῡίέ)</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1479 376 1825 550; x_wconf 52' lang='lat' dir='ltr'><strong>e‘ailsfi‘cs</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1832 380 2141 551; x_wconf 46' lang='lat' dir='ltr'><strong>201⁸ss</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1379 568 2149 851">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1413 568 2149 851">
+     <span class='ocr_line' id='line_1_3' title="bbox 1656 568 1887 646; baseline 0.004 -1"><span class='ocrx_word' id='word_1_7' title='bbox 1656 568 1887 646; x_wconf 75' lang='lat' dir='ltr'><strong>Giftof</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1379 660 2149 762; baseline 0.003 -20.092"><span class='ocrx_word' id='word_1_8' title='bbox 1379 664 1531 743; x_wconf 60' lang='lat' dir='ltr'><strong>.anss</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1564 663 1629 745; x_wconf 68' lang='lat' dir='ltr'><strong>E.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1664 663 1734 741; x_wconf 73' lang='lat' dir='ltr'><strong>D·</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1782 660 2055 762; x_wconf 30' lang='lat' dir='ltr'><strong>Brandc*</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2138 708 2149 744; x_wconf 72' lang='lat'>2</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1527 760 2131 851; baseline 0.002 -14"><span class='ocrx_word' id='word_1_13' title='bbox 1527 762 1680 837; x_wconf 62' lang='grc' dir='ltr'><strong>Νῠνι</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1710 760 1779 843; x_wconf 56' lang='grc'><strong>9)</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1822 764 2004 838; x_wconf 53' lang='grc' dir='ltr'><strong>1ξῖἇά</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 2126 842 2131 851; x_wconf 54' lang='grc'><strong><em>,</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2223 360 2289 397">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2223 360 2289 397">
+     <span class='ocr_line' id='line_1_6' title="bbox 2223 360 2289 397; baseline 0 -7"><span class='ocrx_word' id='word_1_17' title='bbox 2223 360 2289 397; x_wconf 65' lang='lat' dir='ltr'><strong>.ae</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
